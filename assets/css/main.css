@@ -206,6 +206,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2.25rem 0;
+		font-weight: 400;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -240,7 +241,7 @@ input, select, textarea {
 
 	h3 {
 		font-size: 1.85rem;
-		font-weight: 300;
+		font-weight: 400;
 	}
 
 	h4 {
@@ -3653,6 +3654,7 @@ input, select, textarea {
 						display: block;
 						line-height: 3.5rem;
 						text-decoration: none;
+						font-weight: 400;
 					}
 
 					#menu > ul.links > li:first-child > a:not(.button) {
@@ -4330,7 +4332,7 @@ input, select, textarea {
 		}
 
 			#header .logo strong {
-				font-weight: 300;
+				font-weight: 400;
 			}
 
 		#header nav {
